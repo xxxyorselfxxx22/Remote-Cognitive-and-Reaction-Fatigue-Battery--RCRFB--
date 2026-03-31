@@ -1,0 +1,27 @@
+Cognitive Fatigue Reaction Time Testing Suite
+Copyright 2026 Ericson P. Kimbel, II
+
+This product includes software developed by Ericson P. Kimbel, II.
+
+===============================================================================
+
+This software uses the following third-party libraries:
+
+PsychoPy
+Copyright (c) 2002-2023 Jonathan Peirce
+Licensed under GPL v3
+https://www.psychopy.org/
+
+wxPython  
+Copyright (c) 1998-2023 Julian Smart, Robert Roebling, et al.
+Licensed under wxWindows Library License
+https://wxpython.org/
+
+PyInstaller
+Copyright (c) 2005-2023 PyInstaller Development Team
+Licensed under GPL v2+ with exceptions
+https://pyinstaller.org/
+
+===============================================================================
+
+For complete license information, see the LICENSE file.

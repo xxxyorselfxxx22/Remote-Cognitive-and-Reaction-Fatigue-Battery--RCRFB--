@@ -1,0 +1,27 @@
+# Cognitive Fatigue Reaction Time Testing Suite
+# Python package requirements
+
+# Core dependencies
+psychopy>=2023.2.0
+wxpython>=4.2.0
+
+# Build tools (for creating .exe)
+pyinstaller>=5.0
+
+# Note: PsychoPy will automatically install these dependencies:
+# - numpy
+# - scipy
+# - matplotlib
+# - pandas
+# - pyglet
+# - pillow
+# - sounddevice
+# - soundfile
+# - python-vlc
+# And many others...
+
+# Installation:
+# pip install -r requirements.txt
+# OR
+# conda install -c conda-forge psychopy
+# pip install pyinstaller
