@@ -14,7 +14,7 @@ This software suite is designed for remote cognitive testing research, specifica
 - Hardware validation (framerate stability, keyboard consistency)
 - Performance tracking under mental fatigue conditions
 
-**Key Feature:** Designed for elderly participants with large fonts, validation retry dialogs, and comprehensive error handling.
+**Key Feature:** Designed for all particiapnts including elderly participants with large fonts, validation retry dialogs, and comprehensive error handling.
 
 ---
 
@@ -57,9 +57,9 @@ This software suite is designed for remote cognitive testing research, specifica
 
 ### Hardware (Recommended)
 - Windows 10/11 (primary), macOS/Linux (basic support)
-- Monitor: 60Hz+ refresh rate
+- Monitor: 60Hz+ refresh rate (sub 60hz refresh rate is possible, but it is not very good for data)
 - Wired keyboard and mouse (for best results)
-- Sound output (speakers or wired headphones)
+- Sound output (wired speakers or wired headphones)
 
 ---
 
@@ -390,7 +390,7 @@ This software is designed for:
 - Remote participant testing
 - Multi-session longitudinal studies
 
-**IRB Approved:** Designed to meet multi-IRB requirements with comprehensive informed consent.
+**IRB Approved:** Designed to meet multi-IRB requirements with comprehensive informed consent. This code has not been IRB approved, and using this code does not mean you can avoid IRB approval. MAKE SURE TO GAIN IRB APPROVAL BEFORE TESTING ANY HUMAN SUBJECTS, DO NOT ATTEMPT ANY HUMAN SUBJECT TESTING WITH SPECIFIC IRB APPROVAL FROM YOUR INSTITUTION. ANY DAMAGES, CAREER, SOCIAL, MONETARY, ETC. FROM NOT FOLLOWING THIS IRB APPROVAL, OR FROM USING THIS SOFTWARE IN ANY WAY DOES NOT COME BACK TO ME, THE CREATOR, IN ANY CAPACITY, AND IS ENTIRELY ON THE USER(S).
 
 **Data Privacy:** All data stored locally on participant's machine. No cloud upload. Participant sends results manually to researcher.
 
